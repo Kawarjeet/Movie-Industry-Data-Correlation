@@ -1,4 +1,4 @@
-# Movie-Industry-Data-Correlation
+# Movie-Industry-Data-Correlation-Project
 
 The following project code carries out basic data cleaning and correlation on a movie dataset from Kaggle. 
 
