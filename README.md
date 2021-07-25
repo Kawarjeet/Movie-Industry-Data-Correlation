@@ -30,9 +30,9 @@ Terms and Definitions (source: https://www.statisticssolutions.com/free-resource
     + Measuring standards:
       Using Cohen's standard, the strength of correlation coefficient may be interpreted as follows:
       
-      (1) Between 0.10 and 0.29 : small association
+      (1) Correlation coefficient between 0.10 and 0.29 : small association
       
-      (2) Between 0.30 and 0.49 : medium association
+      (2) Correlation coefficient between 0.30 and 0.49 : medium association
       
-      (3) 0.50 and above : large association
+      (3) Correlation coefficient 0.50 and above : large association
     
