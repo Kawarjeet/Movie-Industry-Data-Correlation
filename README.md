@@ -14,9 +14,13 @@ Terms and Definitions (source: https://www.statisticssolutions.com/free-resource
 - A correlation coefficient of +1 or -1 indicates a perfect degree of association between the two variables, and as the value approaches 0 the relationship between the two variables becomes weaker. 
 - The direction of relationship is indicated by the sign of the coefficient; a (+) sign indicates a positive relationship and a (-) sign indicates a negative relationship.
 - Usually in statistics, there are 4 kinds of correlation: 
+
   (1) Pearson correlation
+  
   (2) Kendall correlation
+  
   (3) Spearman correlation
+  
   (4) Point - Biserial correlation
 
 - Pearson Correlation
@@ -25,7 +29,10 @@ Terms and Definitions (source: https://www.statisticssolutions.com/free-resource
       line relationship between the two variables and homoscedasticity assumes that the data is equally distributed about the regression line.
     + Measuring standards:
       Using Cohen's standard, the strength of correlation coefficient may be interpreted as follows:
+      
       (1) Between 0.10 and 0.29 : small association
+      
       (2) Between 0.30 and 0.49 : medium association
+      
       (3) 0.50 and above : large association
     
